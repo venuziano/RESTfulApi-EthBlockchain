@@ -1,0 +1,20 @@
+{
+  "name": "cap09",
+  "version": "1.0.0",
+  "description": "RESTful Web API",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "ava --verbose test/index.test.js"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.17.1",
+    "level": "^5.0.1"
+  },
+  "devDependencies": {
+    "ava": "0.25.0",
+    "supertest": "^4.0.2"
+  }
+}

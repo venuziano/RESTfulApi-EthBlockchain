@@ -1,0 +1,3 @@
+curl http://localhost:8001/bloco/1
+
+curl -X "POST" "http://localhost:8001/bloco" -H 'Content-Type: application/json' -d $'{"body":"mais um bloco na blockchain"}'
