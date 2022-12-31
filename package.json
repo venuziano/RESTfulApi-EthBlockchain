@@ -14,7 +14,7 @@
     "level": "^5.0.1"
   },
   "devDependencies": {
-    "ava": "0.25.0",
+    "ava": "5.1.0",
     "supertest": "^4.0.2"
   }
 }
